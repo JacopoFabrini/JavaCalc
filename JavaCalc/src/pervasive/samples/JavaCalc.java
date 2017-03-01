@@ -38,6 +38,9 @@ public class JavaCalc {
 		case "/":
 			System.out.println("Your answer is " + (n1 / n2));
 			break;
+		case "^":
+			System.out.println("Your answer is " + Math.pow(n1, n2));
+			break;
 		default:
 			System.out.println("Wrong operator!");
 			break;
