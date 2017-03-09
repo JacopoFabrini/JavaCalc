@@ -1,2 +1,2 @@
-# JavaCalc
-Simple Java Calculator
+# Eclipse Project
+Exercise done during Pervasive Electronics course
